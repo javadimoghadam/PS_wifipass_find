@@ -1,0 +1,9 @@
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
+# PowerShell Run 
+*.ps1
